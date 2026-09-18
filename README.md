@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** Likhithesh M  
-**Roll Number:** __________________
+**Name:** Mohammed Bilal Ahmed  
+**Roll Number:** _R25EF147_________________
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
